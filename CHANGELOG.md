@@ -46,3 +46,4 @@
 - vim: configure ctags integration [2025-04-13T18:11:00]
 - git: add commit message template [2025-04-15T21:49:00]
 - zsh: add colored ls output [2025-04-15T22:09:00]
+- vim: add spell check for markdown [2025-04-15T18:45:00]
