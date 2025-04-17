@@ -52,3 +52,4 @@
 - vim: configure code folding [2025-04-16T13:52:00]
 - git: add global gitignore [2025-04-17T21:25:00]
 - zsh: add custom functions for dev workflow [2025-04-17T10:11:00]
+- vim: add prettier integration [2025-04-17T19:07:00]
