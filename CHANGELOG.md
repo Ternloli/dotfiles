@@ -58,3 +58,4 @@
 - vim: add multiple cursor support config [2025-04-20T09:00:00]
 - tmux: add clipboard integration [2025-04-21T20:29:00]
 - git: configure GPG signing [2025-04-21T20:06:00]
+- zsh: add history search improvements [2025-04-21T18:37:00]
