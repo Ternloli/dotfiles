@@ -85,3 +85,4 @@
 - vim: add prettier integration [2025-05-12T22:12:00]
 - starship: add git branch display [2025-05-12T21:47:00]
 - zsh: optimize startup time [2025-05-13T19:04:00]
+- vim: add multiple cursor support config [2025-05-13T17:01:00]
