@@ -95,3 +95,4 @@
 - git: add useful aliases [2025-05-16T21:27:00]
 - zsh: add kubectl completion [2025-05-17T22:34:00]
 - vim: add syntax highlighting for kotlin [2025-05-17T22:18:00]
+- tmux: add custom keybindings [2025-05-18T13:01:00]
