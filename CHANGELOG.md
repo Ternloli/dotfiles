@@ -102,3 +102,4 @@
 - zsh: add fzf integration [2025-05-25T12:21:00]
 - vim: add airline status bar config [2025-05-25T20:07:00]
 - starship: customize prompt segments [2025-05-27T14:41:00]
+- zsh: add python venv auto-activation [2025-05-27T18:47:00]
