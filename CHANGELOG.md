@@ -104,3 +104,4 @@
 - starship: customize prompt segments [2025-05-27T14:41:00]
 - zsh: add python venv auto-activation [2025-05-27T18:47:00]
 - vim: configure ctags integration [2025-05-27T19:49:00]
+- git: add commit message template [2025-05-28T22:11:00]
