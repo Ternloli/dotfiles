@@ -122,3 +122,4 @@
 - vim: add file type specific settings [2025-06-06T11:20:00]
 - zsh: add docker aliases [2025-06-06T18:29:00]
 - vim: enable relative line numbers [2025-06-06T14:01:00]
+- git: add useful aliases [2025-06-07T19:26:00]
