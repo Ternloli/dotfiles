@@ -154,3 +154,4 @@
 - vim: enable relative line numbers [2025-06-27T16:57:00]
 - git: add useful aliases [2025-06-27T09:02:00]
 - zsh: add kubectl completion [2025-06-29T19:04:00]
+- vim: add syntax highlighting for kotlin [2025-06-29T16:05:00]
