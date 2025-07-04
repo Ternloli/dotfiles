@@ -160,3 +160,4 @@
 - vim: add NERDTree configuration [2025-07-03T10:55:00]
 - git: configure diff tool [2025-07-03T22:34:00]
 - zsh: add fzf integration [2025-07-03T09:10:00]
+- vim: add airline status bar config [2025-07-04T13:35:00]
