@@ -168,3 +168,4 @@
 - zsh: add colored ls output [2025-07-05T17:48:00]
 - vim: add spell check for markdown [2025-07-06T11:28:00]
 - tmux: add session management scripts [2025-07-06T14:47:00]
+- zsh: add nvm configuration [2025-07-08T15:58:00]
