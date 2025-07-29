@@ -187,3 +187,4 @@
 - vim: add syntax highlighting for kotlin [2025-07-25T17:16:00]
 - tmux: add custom keybindings [2025-07-25T20:55:00]
 - zsh: improve PATH configuration [2025-07-27T17:26:00]
+- vim: add NERDTree configuration [2025-07-28T20:32:00]
