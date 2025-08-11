@@ -206,3 +206,4 @@
 - starship: add git branch display [2025-08-08T09:30:00]
 - zsh: optimize startup time [2025-08-08T19:29:00]
 - vim: add multiple cursor support config [2025-08-09T10:37:00]
+- tmux: add clipboard integration [2025-08-11T15:16:00]
