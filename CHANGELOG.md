@@ -218,3 +218,4 @@
 - tmux: add custom keybindings [2025-08-17T09:13:00]
 - zsh: improve PATH configuration [2025-08-17T13:44:00]
 - vim: add NERDTree configuration [2025-08-17T19:07:00]
+- git: configure diff tool [2025-08-18T15:12:00]
