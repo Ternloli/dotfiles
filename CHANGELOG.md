@@ -221,3 +221,4 @@
 - git: configure diff tool [2025-08-18T15:12:00]
 - zsh: add fzf integration [2025-08-18T19:46:00]
 - vim: add airline status bar config [2025-08-20T22:28:00]
+- starship: customize prompt segments [2025-08-21T17:42:00]
