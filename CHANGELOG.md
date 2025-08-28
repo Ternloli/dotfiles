@@ -229,3 +229,4 @@
 - vim: add spell check for markdown [2025-08-24T17:36:00]
 - tmux: add session management scripts [2025-08-25T14:36:00]
 - zsh: add nvm configuration [2025-08-25T18:38:00]
+- vim: configure code folding [2025-08-28T19:04:00]
