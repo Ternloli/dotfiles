@@ -234,3 +234,4 @@
 - zsh: add custom functions for dev workflow [2025-08-29T11:20:00]
 - vim: add prettier integration [2025-08-29T19:54:00]
 - starship: add git branch display [2025-08-30T13:02:00]
+- zsh: optimize startup time [2025-09-01T13:40:00]
