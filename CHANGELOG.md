@@ -258,3 +258,4 @@
 - zsh: add colored ls output [2025-09-12T17:04:00]
 - vim: add spell check for markdown [2025-09-13T14:22:00]
 - tmux: add session management scripts [2025-09-15T19:38:00]
+- zsh: add nvm configuration [2025-09-16T09:47:00]
