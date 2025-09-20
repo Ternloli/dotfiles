@@ -270,3 +270,4 @@
 - git: configure GPG signing [2025-09-19T11:45:00]
 - zsh: add history search improvements [2025-09-19T22:14:00]
 - vim: add file type specific settings [2025-09-19T21:16:00]
+- zsh: add docker aliases [2025-09-20T19:42:00]
