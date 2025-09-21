@@ -271,3 +271,4 @@
 - zsh: add history search improvements [2025-09-19T22:14:00]
 - vim: add file type specific settings [2025-09-19T21:16:00]
 - zsh: add docker aliases [2025-09-20T19:42:00]
+- vim: enable relative line numbers [2025-09-21T14:37:00]
