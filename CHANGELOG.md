@@ -279,3 +279,4 @@
 - zsh: improve PATH configuration [2025-09-28T22:29:00]
 - vim: add NERDTree configuration [2025-09-29T13:26:00]
 - git: configure diff tool [2025-09-29T17:07:00]
+- zsh: add fzf integration [2025-09-30T13:55:00]
