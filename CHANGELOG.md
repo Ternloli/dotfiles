@@ -343,3 +343,4 @@
 - vim: add airline status bar config [2025-11-11T15:38:00]
 - starship: customize prompt segments [2025-11-11T20:27:00]
 - zsh: add python venv auto-activation [2025-11-12T11:54:00]
+- vim: configure ctags integration [2025-11-13T13:06:00]
