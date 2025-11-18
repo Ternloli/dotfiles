@@ -350,3 +350,4 @@
 - tmux: add session management scripts [2025-11-15T19:17:00]
 - zsh: add nvm configuration [2025-11-16T12:49:00]
 - vim: configure code folding [2025-11-16T11:28:00]
+- git: add global gitignore [2025-11-18T14:10:00]
