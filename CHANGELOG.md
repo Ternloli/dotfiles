@@ -357,3 +357,4 @@
 - zsh: optimize startup time [2025-11-19T09:06:00]
 - vim: add multiple cursor support config [2025-11-20T22:41:00]
 - tmux: add clipboard integration [2025-11-20T13:44:00]
+- git: configure GPG signing [2025-11-22T17:02:00]
