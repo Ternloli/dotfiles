@@ -363,3 +363,4 @@
 - zsh: add docker aliases [2025-11-23T22:36:00]
 - vim: enable relative line numbers [2025-11-23T19:34:00]
 - git: add useful aliases [2025-11-23T12:15:00]
+- zsh: add kubectl completion [2025-11-25T22:35:00]
