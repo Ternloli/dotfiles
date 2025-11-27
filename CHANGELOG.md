@@ -366,3 +366,4 @@
 - zsh: add kubectl completion [2025-11-25T22:35:00]
 - vim: add syntax highlighting for kotlin [2025-11-25T22:52:00]
 - tmux: add custom keybindings [2025-11-25T14:50:00]
+- zsh: improve PATH configuration [2025-11-26T20:30:00]
