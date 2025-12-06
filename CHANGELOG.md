@@ -383,3 +383,4 @@
 - git: add global gitignore [2025-12-05T13:59:00]
 - zsh: add custom functions for dev workflow [2025-12-05T20:41:00]
 - vim: add prettier integration [2025-12-05T18:10:00]
+- starship: add git branch display [2025-12-06T18:01:00]
