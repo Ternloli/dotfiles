@@ -405,3 +405,4 @@
 - zsh: add python venv auto-activation [2025-12-22T19:45:00]
 - vim: configure ctags integration [2025-12-22T22:39:00]
 - git: add commit message template [2025-12-22T20:08:00]
+- zsh: add colored ls output [2025-12-23T17:46:00]
