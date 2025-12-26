@@ -408,3 +408,4 @@
 - zsh: add colored ls output [2025-12-23T17:46:00]
 - vim: add spell check for markdown [2025-12-23T22:45:00]
 - tmux: add session management scripts [2025-12-23T22:12:00]
+- zsh: add nvm configuration [2025-12-25T22:36:00]
