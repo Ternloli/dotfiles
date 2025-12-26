@@ -411,3 +411,4 @@
 - zsh: add nvm configuration [2025-12-25T22:36:00]
 - vim: configure code folding [2025-12-25T16:40:00]
 - git: add global gitignore [2025-12-25T12:23:00]
+- zsh: add custom functions for dev workflow [2025-12-26T16:03:00]
