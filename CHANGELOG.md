@@ -449,3 +449,4 @@
 - tmux: add clipboard integration [2026-01-29T14:48:00]
 - git: configure GPG signing [2026-01-29T11:40:00]
 - zsh: add history search improvements [2026-01-31T15:58:00]
+- vim: add file type specific settings [2026-01-31T10:47:00]
