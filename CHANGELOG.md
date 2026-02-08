@@ -455,3 +455,4 @@
 - git: add useful aliases [2026-02-01T17:29:00]
 - zsh: add kubectl completion [2026-02-03T20:59:00]
 - vim: add syntax highlighting for kotlin [2026-02-04T19:27:00]
+- tmux: add custom keybindings [2026-02-08T14:54:00]
