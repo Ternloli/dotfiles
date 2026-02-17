@@ -467,3 +467,4 @@
 - git: add commit message template [2026-02-15T09:03:00]
 - zsh: add colored ls output [2026-02-15T09:09:00]
 - vim: add spell check for markdown [2026-02-16T15:20:00]
+- tmux: add session management scripts [2026-02-17T14:36:00]
