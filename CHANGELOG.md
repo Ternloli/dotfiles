@@ -468,3 +468,4 @@
 - zsh: add colored ls output [2026-02-15T09:09:00]
 - vim: add spell check for markdown [2026-02-16T15:20:00]
 - tmux: add session management scripts [2026-02-17T14:36:00]
+- zsh: add nvm configuration [2026-02-18T14:42:00]
