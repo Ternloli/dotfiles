@@ -1,0 +1,25 @@
+[user]
+    name = Loli
+    email = zoujiazuo@qq.com
+
+[core]
+    editor = vim
+    autocrlf = input
+    whitespace = fix,-indent-with-non-tab,trailing-space,cr-at-eol
+
+[color]
+    ui = auto
+
+[alias]
+    st = status
+    co = checkout
+    br = branch
+    lg = log --oneline --graph --decorate --all
+    undo = reset HEAD~1 --mixed
+    amend = commit --amend --no-edit
+
+[pull]
+    rebase = false
+
+[push]
+    default = current
